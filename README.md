@@ -1,5 +1,6 @@
-# RUTEA
-
+<div align="center">
+  # RUTEA
+</div>
 **Prepara tu salida al Pirineo en segundos: material, normativa y tiempos según tu ruta, actividad y fecha.**
 <div align="center">
   
