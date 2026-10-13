@@ -9,6 +9,9 @@
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
+<img src="images/rutea-logo.png" alt="drawing" width="200" />
+
+
 ---
 
 ##  Descripción
