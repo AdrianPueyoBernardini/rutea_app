@@ -45,15 +45,15 @@ Y la app devuelve:
 
 ## 🧠 Funcionalidades
 
-- [x] Catálogo de rutas clásicas del Pirineo aragonés
-- [x] Selección de actividad y fecha
-- [x] Previsión meteorológica y horas de sol
-- [x] Checklist de material generada por reglas
-- [x] Resumen en lenguaje natural con IA
-- [ ] Avisos de normativa con RAG sobre documentos oficiales
-- [ ] Modo offline con descarga de la ficha y el track
-- [ ] Exportación a PDF y GPX
-- [ ] Reportes de la comunidad (estado de nieve, senderos, fuentes)
+-  Catálogo de rutas clásicas del Pirineo aragonés
+-  Selección de actividad y fecha
+-  Previsión meteorológica y horas de sol
+-  Checklist de material generada por reglas
+-  Resumen en lenguaje natural con IA
+-  Avisos de normativa con RAG sobre documentos oficiales
+-  Modo offline con descarga de la ficha y el track
+-  Exportación a PDF y GPX
+-  Reportes de la comunidad (estado de nieve, senderos, fuentes)
 
 ---
 
@@ -131,7 +131,6 @@ piriruta/
 - [.NET SDK](https://dotnet.microsoft.com/download) 8.0
 - [Python](https://www.python.org/downloads/) 3.11 o superior
 - [PostgreSQL](https://www.postgresql.org/) con la extensión PostGIS (o Docker)
-- La app [Expo Go](https://expo.dev/go) en el móvil, o un emulador Android/iOS
 
 ## 🤝 Contribuir
 
