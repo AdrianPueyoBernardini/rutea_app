@@ -144,11 +144,9 @@ piriruta/
 
 | Nombre | Rol | GitHub |
 |---|---|---|
-| **Adrian** | Desarrollo y arquitectura | [@tu-usuario](https://github.com/tu-usuario) |
-| **Daniel Sanchez Bartolome** | Front end | [@usuario]([https://github.com/usuario](https://github.com/DanielSB93)) |
-| **Nombre Apellido** | Backend | [@usuario](https://github.com/usuario) |
-
-Proyecto desarrollado en el marco del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+| **Adrian Pueyo Bernardini** | Desarrollo y arquitectura | [@AdrianPueyoBernardini]([https://github.com/tu-usuario](https://github.com/AdrianPueyoBernardini)) |
+| **Daniel Sanchez Bartolome** | Desarrollo y arquitectura | [@DanielSB93]([https://github.com/usuario](https://github.com/DanielSB9)) |
+| **Adrian Rodriguez Machado** | Desarrollo y arquitectura | [@20adrianr02-arch]([https://github.com/usuario](https://github.com/20adrianr02-arch)) |
 
 ---
 
