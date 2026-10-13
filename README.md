@@ -54,7 +54,7 @@ Y la app devuelve:
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías (Provisional)
 
 | Capa | Tecnología | Función |
 |---|---|---|
@@ -80,7 +80,7 @@ Y la app devuelve:
 
 ---
 
-## 🗂️ Estructura del proyecto
+## 🗂️ Estructura del proyecto (Provisional)
 
 ```
 piriruta/
@@ -120,7 +120,7 @@ piriruta/
 
 ---
 
-## 📦 Instalación local
+## 📦 Instalación local (Provisional)
 
 ### Requisitos previos
 
