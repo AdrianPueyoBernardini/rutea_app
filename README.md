@@ -1,7 +1,8 @@
 # RUTEA
 
 **Prepara tu salida al Pirineo en segundos: material, normativa y tiempos según tu ruta, actividad y fecha.**
-
+<div align="center">
+  
 ![Versión](https://img.shields.io/badge/versi%C3%B3n-0.0.0-blue)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -156,7 +157,7 @@ piriruta/
 
 ## 📄 Licencia
 
-Distribuido bajo la licencia **MIT**. Consulta el archivo [`LICENSE`](LICENSE) para más información.
+Distribuido bajo la licencia **MIT**.
 
 ---
 
