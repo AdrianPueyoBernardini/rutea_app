@@ -145,7 +145,7 @@ piriruta/
 | Nombre | Rol | GitHub |
 |---|---|---|
 | **Adrian** | Desarrollo y arquitectura | [@tu-usuario](https://github.com/tu-usuario) |
-| **Nombre Apellido** | Front end | [@usuario](https://github.com/usuario) |
+| **Daniel Sanchez Bartolome** | Front end | [@usuario]([https://github.com/usuario](https://github.com/DanielSB93)) |
 | **Nombre Apellido** | Backend | [@usuario](https://github.com/usuario) |
 
 Proyecto desarrollado en el marco del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
