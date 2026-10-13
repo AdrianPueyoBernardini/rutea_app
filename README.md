@@ -2,7 +2,7 @@
 
 **Prepara tu salida al Pirineo en segundos: material, normativa y tiempos según tu ruta, actividad y fecha.**
 
-![Versión](https://img.shields.io/badge/versi%C3%B3n-0.1.0-blue)
+![Versión](https://img.shields.io/badge/versi%C3%B3n-0.0.0-blue)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
